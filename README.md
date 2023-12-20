@@ -1,0 +1,2 @@
+该项目基于无监督NLP任务对中国建筑与市政工程领域2017-2022年间的159份事故调查报告中信息进行聚类，上传的文件中包括基于Text2Vec工具对事故因素信息进行向量化和聚类的代码，以及原始文本数据。
+The project is based on an unsupervised NLP task to cluster information from 159 accident investigation reports in the field of construction and municipal engineering in China for the period of 2017-2022. The uploaded files include the code for vectorizing and clustering accident factor information based on the Text2Vec tool, as well as the raw text data.
